@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 soy estudiante estoy en proceso de aprendizaje
+- 🌱 Soy estudiante estoy en proceso de aprendizaje
 
 - 📫 Me pueden contactar **alejandro.alvarez4036@gmail.com**
 
-- ⚡ Algo mas :- La comida, Naturaleza y la muisica 🎵 son mi razon de vivir.
+- ⚡ Algo mas :- La Comida, Naturaleza y la Musica 🎵 son mi razon de vivir.
 
 <br>
 
