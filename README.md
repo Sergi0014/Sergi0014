@@ -16,7 +16,7 @@
 
 - 📫 Me pueden contactar **alejandro.alvarez4036@gmail.com**
 
-- ⚡ Algo mas :- La Comida, Naturaleza y la Musica 🎵 son mi razon de vivir.
+- ⚡ Algo mas :- La Comida, Naturaleza y la Musica 🎵 razones de vivir.
 
 <br>
 
