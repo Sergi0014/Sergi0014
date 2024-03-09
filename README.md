@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SERGIO ALVAREZ</h1>
+<h1 align="center">HOLA 👋, SOY SERGIO ALVAREZ</h1>
 <h3 align="center">SOY ESTUDIANTE DE DESARROLO DE SOFTWARE.</h3>
 
 <br>
