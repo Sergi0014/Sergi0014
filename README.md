@@ -1,12 +1,12 @@
 <h1 align="center">HOLA 👋, SOY SERGIO ALVAREZ</h1>
-<h3 align="center">SOY ESTUDIANTE DE DESARROLO DE SOFTWARE.</h3>
+<h3 align="center">SOY ESTUDIANTE DE DESARROLlO DE SOFTWARE.</h3>
 
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Soy estudiante estoy en proceso de aprendizaje
+- 🌱 Soy Ing Agrono y ahora estudiante de desarrollo de software estoy en proceso de aprendizaje.
 
 - 📫 Me pueden contactar **alejandro.alvarez4036@gmail.com**
 
