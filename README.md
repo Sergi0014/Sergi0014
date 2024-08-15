@@ -1,5 +1,5 @@
 <h1 align="center">HOLA 👋, SOY SERGIO ALVAREZ</h1>
-<h3 align="center">SOY ESTUDIANTE DE DESARROLlO DE SOFTWARE.</h3>
+<h3 align="center">SOY ESTUDIANTE DE DESARROLLO DE SOFTWARE.</h3>
 
 
 
